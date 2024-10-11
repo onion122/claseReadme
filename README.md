@@ -78,4 +78,26 @@ EJEMPLO DE TABLAS
 EJEMPLO PARA INSERTAR IMAGEN
 ![hypnotic-599632335-large](https://github.com/user-attachments/assets/e881ebc8-7afc-44f8-b330-d65fbc04c48c)
 
-<img src="![hypnotic-599632335-large](https://github.com/user-attachments/assets/76e3f92d-eb89-4130-90a5-0d9df7976e79)" width=200>
+<img src="https://pics.filmaffinity.com/hypnotic-599632335-large.jpg" width="200">
+
+EJEMPLO ENLACE Y EMOJIS
+Enlace
+[Readme](https://es.ipsum.com/)
+
+Enlace automático
+<https://es.ipsum.com>
+
+Ejemplo de emojis
+
+:+1:
+
+EJEMPLO DE BLOQUE DE CÓDIGO
+```bash
+  npm install
+```
+
+```javascript
+  function decirHola (){
+  console.log('Hola')
+}
+```
